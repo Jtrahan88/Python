@@ -1,4 +1,4 @@
-# 01. Brand Name Generator [Solution](website)
+# 01. Brand Name Generator [Solution](https://github.com/Jtrahan88/Python-Fundamentals/blob/main/01.%20Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops/01_Project_Band_Name_Generator.py)
 #### Take in user input for:
  * City they grew up in.
  * Name of pet.
