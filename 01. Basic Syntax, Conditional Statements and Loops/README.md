@@ -25,8 +25,8 @@
  * How many people at the table splitting the bill
  > * **Outputs:** Total cost per person.
 
-# 03. Project: Treasure Island 💀
-#### Goal: Find the treasure! (adventure game)
+# 03. Project: 💀 Treasure Island 💀
+#### Goal: Find the treasure! (adventure game) - (Work in progress)
 #### Learning Objectives:
  * Conditonal Statments
  * Logical Operators
@@ -38,6 +38,5 @@
  * Give user choices to play
  * Based on user choice goes to other directions
  * put in ASCII art for fun based on how user wins/gets GameOver
- * 
 
 
