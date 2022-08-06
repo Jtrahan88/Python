@@ -23,4 +23,4 @@
  * Total bill price
  * Percent of tip wanted to give
  * How many people at teh table spliting teh bill
- >> * **Outputs:** Total cost per person.
+ > * **Outputs:** Total cost per person.
