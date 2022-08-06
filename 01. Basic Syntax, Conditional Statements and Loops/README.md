@@ -32,6 +32,6 @@
  * Logical Operators
  * Code Blocks
  * Scope
- * * Global/Local Name spacing
+ * Global/Local Name spacing
 
 
