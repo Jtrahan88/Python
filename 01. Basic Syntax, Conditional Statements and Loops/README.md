@@ -3,7 +3,7 @@
 #### Learning Objectives:
  * Variables.
  * User input.
- * Formating.
+ * Formatting.
  * Line spacing, or getting user input on next line.
  * .title() method
 #### Take in user input for:
@@ -12,15 +12,16 @@
  > * **Outputs:** City + Pet that shows their band name.
 
 # 02. Project: Tip Calculator [Solution](https://github.com/Jtrahan88/Python-Fundamentals/blob/main/01.%20Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops/2_Project_Tip_Calculator.py)
-#### Goal: Figure out the bill for eatch person if split evenly by all.
+#### Goal: Figure out the bill for each person if split evenly by all.
 #### Learning Objectives:
  * Operators
  * Variables.
  * User input.
- * Formating/Rounding
+ * Formatting/Rounding
  
 #### Take in user input for:
  * Total bill price
  * Percent of tip wanted to give
- * How many people at teh table spliting teh bill
+ * How many people at the table splitting the bill
  > * **Outputs:** Total cost per person.
+
