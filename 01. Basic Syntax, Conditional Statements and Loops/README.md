@@ -25,3 +25,13 @@
  * How many people at the table splitting the bill
  > * **Outputs:** Total cost per person.
 
+# 03. Project: Treasure Island
+#### Goal: W.I.P
+#### Learning Objectives:
+ * Conditonal Statments
+ * Logical Operators
+ * Code Blocks
+ * Scope
+ * * Global/Local Name spacing
+
+
