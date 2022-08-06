@@ -11,7 +11,7 @@
  * Name of pet.
  > * **Outputs:** City + Pet that shows their band name.
 
-# 02. Project: Tip Calculator [Solution](https://github.com/Jtrahan88/Python-Fundamentals/blob/main/01.%20Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops/01_Project_Band_Name_Generator.py)
+# 02. Project: Tip Calculator [Solution](https://github.com/Jtrahan88/Python-Fundamentals/blob/main/01.%20Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops/2_Project_Tip_Calculator.py)
 #### Goal: Figure out teh bill for eatch person if split evenly by all
 #### Learning Objectives:
  * Operators
