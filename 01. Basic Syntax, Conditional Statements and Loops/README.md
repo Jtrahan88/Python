@@ -25,7 +25,7 @@
  * How many people at the table splitting the bill
  > * **Outputs:** Total cost per person.
 
-# 03. Project: Treasure Island
+# 03. Project: Treasure Island 💀
 #### Goal: Find the treasure! (adventure game)
 #### Learning Objectives:
  * Conditonal Statments
@@ -33,5 +33,11 @@
  * Code Blocks
  * Scope
  * Global/Local Name spacing
+#### Take in user input for:
+ * Starting the game
+ * Give user choices to play
+ * Based on user choice goes to other directions
+ * put in ASCII art for fun based on how user wins/gets GameOver
+ * 
 
 
