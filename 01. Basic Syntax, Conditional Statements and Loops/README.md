@@ -26,7 +26,7 @@
  > * **Outputs:** Total cost per person.
 
 # 03. Project: Treasure Island
-#### Goal: W.I.P
+#### Goal: Find the treasure! (adventure game)
 #### Learning Objectives:
  * Conditonal Statments
  * Logical Operators
