@@ -7,3 +7,4 @@
  * Variables.
  * User input.
  * Formating.
+ * Line spacing, or getting user input on next line. 
