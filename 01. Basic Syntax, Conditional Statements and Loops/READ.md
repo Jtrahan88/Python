@@ -3,7 +3,7 @@
  * City they grew up in.
  * Name of pet.
  * Outputs: City + Pet that shows their band name.
-#### Learning:
+#### Learning Objectives:
  * Variables.
  * User input.
  * Formating.
