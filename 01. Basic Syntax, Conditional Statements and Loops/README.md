@@ -42,7 +42,7 @@
  
  
  
- # 04. Rock Paper Scissor's Game! [Solution](test)
+ # 04. Rock Paper Scissor's Game! [Solution](https://github.com/Jtrahan88/Python-Fundamentals/blob/main/01.%20Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops/4_Rock_Papper_Scissors.py)
 
 #### Goal: 1 v 1 game agaist a computer
 > * Source: [Random Module](https://docs.python.org/3/library/random.html)
