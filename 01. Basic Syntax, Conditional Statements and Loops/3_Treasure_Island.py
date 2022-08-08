@@ -32,11 +32,14 @@ if start == 'start':
     
     
                             will you go left, right or straight?""")
-    choice1 = input("Should we answer him? 'LEFT', 'Right', 'STRAIGHT', 'IGNORE'\n Your Choice: ").lower()
+    choice1 = input("Should we answer him? 'LEFT', 'RIGHT', 'STRAIGHT', 'IGNORE'").lower()
     
     if choice1 == 'right':
-        print("A strange fog apears again adn you can not even see your hands. You fell into a pit filled with spikes!")
-        print("""
+        print("""\n        A strange fog apears again and you can not even see your hands in front of you.
+        
+        
+                            You fell into a pit filled with spikes!
+
                                                 ,--.
                                                {    }
                                                K,   }
@@ -64,8 +67,84 @@ if start == 'start':
                                   ^^\..___,.--`
 
         """)
+    elif choice1 == 'left':
+        print("""The boatman was waiting for you. His name is Charon, the son of Erebus and Nyx.
+        
+                        Charon takes you back to Hades who offers you to Cerberus!
+                        
+                                GAME OVER   
+                                
+                                                            ,--,  ,.-.
+                                ,                   \,       '-,-`,'-.' | ._
+                               /|           \    ,   |\         }  )/  / `-,',
+                               [ '          |\  /|   | |        /  \|  |/`  ,`
+                               | |       ,.`  `,` `, | |  _,...(   (      _',
+                               \  \  __ ,-` `  ,  , `/ |,'      Y     (   \_L\
+                               \  \_\,``,   ` , ,  /  |         )         _,/
+                                 \  '  `  ,_ _`_,-,<._.<        /         /
+                                  ', `>.,`  `  `   ,., |_      |         /
+                                    \/`  `,   `   ,`  | /__,.-`    _,   `\
+                                -,-..\  _  \  `  /  ,  / `._) _,-\`       \
+                                \_,,.) /\    ` /  / ) (-,, ``    ,        |
+                                ,` )  | \_\       '-`  |  `(               \
+                                /  /```(   , --, ,' \   |`<`    ,            |
+                              /  /_,--`\   <\  V /> ,` )<_/)  | \      _____)
+                        ,-, ,`   `   (_,\ \    |   /) / __/  /   `----`
+                       (-, \           ) \ ('_.-._)/ /,`    /
+                       | /  `          `/ \\ V   V, /`     /
+                    ,--\(        ,     <_/`\\     ||      /
+                   (   ,``-     \/|         \-A.A-`|     /
+                  ,>,_ )_,..(    )\          -,,_-`  _--`
+                 (_ \|`   _,/_  /  \_            ,--`
+                  \( `   <.,../`     `-.._   _,-`
+                   `                      ```
+        
+        """)
+    elif choice1 == 'straight':
+        print(r"""
+        You staied focused on the path and did not get distracted. 
+        
+                            You are RICH!
+                   ____...------------...____
+               _.-'` /o/__ ____ __ __  __ \o\_`'-._
+             .'     / /                    \ \     '.
+             |=====/o/======================\o\=====|
+             |____/_/________..____..________\_\____|
+             /   _/ \_     <_o#\__/#o_>     _/ \_   \
+             \_________\####/_________/
+              |===\!/========================\!/===|
+              |   |=|          .---.         |=|   |
+              |===|o|=========/     \========|o|===|
+              |   | |         \() ()/        | |   |
+              |===|o|======{'-.) A (.-'}=====|o|===|
+              | __/ \__     '-.\uuu/.-'    __/ \__ |
+              |==== .'.'^'.'.====|
+              |  _\o/   __  {.' __  '.} _   _\o/  _|
+              `''''-''''''''''''''''''''''''''-''''`
+              """)
+                            
+                            
+            
     else:
-        print('ftw')
+        print('''Trying to be a funny guy huh?!
+        
+                             Oppy doppy you died
+                        
+                             )               (
+                            / \  .-"""""-.  / \        
+                           (   \/ __   __ \/   )
+                            )  ; / _\ /_ \ ;  (
+                           (   |  / \ / \  |   )
+                            \ (,  \0/_\0/  ,) /
+                             \_|   /   \   |_/
+                               | (_\___/_) |
+                               .\ \ -.- / /.
+                              {  \ `===' /  }
+                             {    `.___.'    }
+                              {             }
+                               `"="="="="="`
+                        
+                        ''')
 
         
 else:
