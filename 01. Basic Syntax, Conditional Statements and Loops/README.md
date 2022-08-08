@@ -25,8 +25,9 @@
  * How many people at the table splitting the bill
  > * **Outputs:** Total cost per person.
 
-# 03. Project: 💀 Treasure Island 💀
-#### Goal: Find the treasure! (adventure game) - (Work in progress)
+# 03. Project: 💀 Treasure Island 💀 [Solution](https://github.com/Jtrahan88/Python-Fundamentals/blob/main/01.%20Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops/3_Treasure_Island.py)
+
+#### Goal: Find the treasure! (adventure game)
 #### Learning Objectives:
  * Conditonal Statments
  * Logical Operators
