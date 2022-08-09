@@ -76,3 +76,19 @@
 #### Take in user input for:
  * Number of each type of cahr they want
  > **Outputs** A new password for user. 
+ 
+ 
+ 
+  # 06. 6_Prompting_And_Passing.py [Solution]()
+  ### Must be ran in powershell or some command line aspect on your computer
+
+#### Goal: Use powrshell(BASH) to get user arguments and ask them questions
+> * Source: [Learn python 3 the hard way - Zed Shaw](https://www.informit.com/store/learn-python-3-the-hard-way-a-very-simple-introduction-9780134692883)
+
+#### Learning Objectives:
+ * import sys from args
+ * unpacking args
+ * user inputs
+#### Take in user input for:
+ * Asnwers to questions
+ > **Outputs** paragraph with user's answers. 
