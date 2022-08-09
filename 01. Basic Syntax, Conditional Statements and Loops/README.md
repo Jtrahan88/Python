@@ -61,7 +61,7 @@
 
 5_Password_Generator.py
 
- # 05. Password_Generator [Solution]()
+ # 05. Password_Generator [Solution](https://github.com/Jtrahan88/Python/blob/main/01.%20Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops/5_Password_Generator.py)
 
 #### Goal: Make a random password based on how many chars teh user wants
 > * Source: [Random Module](https://docs.python.org/3/library/random.html)
