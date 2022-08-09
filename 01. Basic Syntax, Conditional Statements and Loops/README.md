@@ -59,4 +59,20 @@
  * Computer randomly picks a number
  * put in ASCII art for user and computer choices
 
+5_Password_Generator.py
 
+ # 05. Password_Generator [Solution]()
+
+#### Goal: Make a random password based on how many chars teh user wants
+> * Source: [Random Module](https://docs.python.org/3/library/random.html)
+> * Source: [Shuffle a list(sample)](https://note.nkmk.me/en/python-random-shuffle/#:~:text=To%20shuffle%20strings%20or%20tuples,to%20a%20string%20or%20tuple.)
+> * Source: [Concatenate strings in Python (+ operator, join, etc.)](https://note.nkmk.me/en/python-string-concat/)
+> * Source: [.join()](https://www.w3schools.com/python/ref_string_join.asp)
+#### Learning Objectives:
+ * Methods: .join(), random.sample(), 
+ * Random module
+ * For loops
+ * range and len methods
+#### Take in user input for:
+ * Number of each type of cahr they want
+ > **Outputs** A new password for user. 
