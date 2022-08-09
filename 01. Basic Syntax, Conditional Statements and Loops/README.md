@@ -79,7 +79,7 @@
  
  
  
-  # 06. 6_Prompting_And_Passing.py [Solution]()
+  # 06. Prompting_And_Passing.py [Solution](https://github.com/Jtrahan88/Python/blob/main/01.%20Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops/6_Prompting_And_Passing.py)
   ### Must be ran in powershell or some command line aspect on your computer
 
 #### Goal: Use powrshell(BASH) to get user arguments and ask them questions
