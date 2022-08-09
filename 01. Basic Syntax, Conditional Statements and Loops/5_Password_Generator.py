@@ -24,3 +24,4 @@ for num in range(nr_numbers):
 
 new_pass = ''.join(random.sample(password, len(password)))
 print(new_pass)
+
