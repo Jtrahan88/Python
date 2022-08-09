@@ -23,5 +23,5 @@ for num in range(nr_numbers):
     password.append(random.choice(numbers))
 
 new_pass = ''.join(random.sample(password, len(password)))
-print(new_pass)
+print(f'Your new password is: {new_pass}')
 
