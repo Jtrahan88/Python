@@ -77,8 +77,6 @@
  * Number of each type of cahr they want
  > **Outputs** A new password for user. 
  
- 
- 
   # 06. Prompting_And_Passing.py [Solution](https://github.com/Jtrahan88/Python/blob/main/01.%20Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops/6_Prompting_And_Passing.py)
   ### Must be ran in powershell or some command line aspect on your computer
 
@@ -92,3 +90,17 @@
 #### Take in user input for:
  * Asnwers to questions
  > **Outputs** paragraph with user's answers. 
+ 
+   # 07. Read_In_files_From_Computer.py [Solution](https://github.com/Jtrahan88/Python/blob/main/01.%20Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops/7_Read_In_files_From_Computer.py/7_Read_In_files_From_Computer.py)
+  ### Must be ran in powershell or some command line aspect on your computer
+
+#### Goal: Read in file text
+> * Source: [Learn python 3 the hard way - Zed Shaw](https://www.informit.com/store/learn-python-3-the-hard-way-a-very-simple-introduction-9780134692883)
+
+#### Learning Objectives:
+ * import sys from args
+ * unpacking args
+ * read in files, can also read in python scripts beacsue those are also considered text files.
+#### Take in user input for:
+ * Get file need/wanted to read. 
+ > **Outputs** file contents. 
