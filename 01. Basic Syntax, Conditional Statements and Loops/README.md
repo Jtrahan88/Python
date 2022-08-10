@@ -105,7 +105,7 @@
  * Get file need/wanted to read. 
  > **Outputs** file contents. 
  
-    # 08. Reading_And_Writing_Files.py [Solution](https://github.com/Jtrahan88/Python/blob/main/01.%20Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops/8_Reading_And_Writing_Files.py/8_Reading_And_Writing_Files.py)
+ # 08. Reading_And_Writing_Files.py [Solution](https://github.com/Jtrahan88/Python/blob/main/01.%20Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops/8_Reading_And_Writing_Files.py/8_Reading_And_Writing_Files.py)
   ### Must be ran in powershell or some command line aspect on your computer
 
 #### Goal: Delete file text contents, then wrte new lines into file.
