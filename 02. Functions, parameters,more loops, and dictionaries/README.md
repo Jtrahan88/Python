@@ -5,3 +5,12 @@
  * Variables.
  * *args [Source](https://docs.python.org/3.7/search.html?q=kwarg)
  > * **Outputs:** function arguements given.
+
+# 2_Functions_And_Variables.py [Solution](https://github.com/Jtrahan88/Python/blob/main/02.%20Functions%2C%20parameters%2Cmore%20loops%2C%20and%20dictionaries/2_Functions_And_Variables.py)
+#### Goal: Function foundations using variables
+#### Learning Objectives:
+ * Functions
+ * Variables.
+ * Operators
+ * *args [Source](https://docs.python.org/3.7/search.html?q=kwarg)
+ > * **Outputs:** function arguements given.
