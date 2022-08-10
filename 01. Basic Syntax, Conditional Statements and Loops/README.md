@@ -84,7 +84,7 @@
 > * Source: [Learn python 3 the hard way - Zed Shaw](https://www.informit.com/store/learn-python-3-the-hard-way-a-very-simple-introduction-9780134692883)
 
 #### Learning Objectives:
- * import sys from args
+ * from sys import args [Source](https://docs.python.org/3/library/sys.html?highlight=sys#module-sys)
  * unpacking args
  * user inputs
 #### Take in user input for:
@@ -98,7 +98,7 @@
 > * Source: [Learn python 3 the hard way - Zed Shaw](https://www.informit.com/store/learn-python-3-the-hard-way-a-very-simple-introduction-9780134692883)
 
 #### Learning Objectives:
- * import sys from args
+ * from sys import args [Source](https://docs.python.org/3/library/sys.html?highlight=sys#module-sys)
  * unpacking args
  * read in files, can also read in python scripts beacsue those are also considered text files.
 #### Take in user input for:
@@ -112,7 +112,22 @@
 > * Source: [Learn python 3 the hard way - Zed Shaw](https://www.informit.com/store/learn-python-3-the-hard-way-a-very-simple-introduction-9780134692883)
 
 #### Learning Objectives:
- * import sys from args
+ * from sys import args [Source](https://docs.python.org/3/library/sys.html?highlight=sys#module-sys)
+ * unpacking args
+ * read/write files
+#### Take in user input for:
+ * Get file need/wanted to read. 
+ > **Outputs** text file with user inputs written in file. 
+ 
+ # 09. 9_Copy_File_To_Another_File.py [Solution](https://github.com/Jtrahan88/Python/blob/main/01.%20Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops/9_Copy_File_To_Another_File.py/9_Copy_File_To_Another_File.py)
+  ### Must be ran in powershell or some command line aspect on your computer
+
+#### Goal: Delete file text contents, then wrte new lines into file.
+> * Source: [Learn python 3 the hard way - Zed Shaw](https://www.informit.com/store/learn-python-3-the-hard-way-a-very-simple-introduction-9780134692883)
+
+#### Learning Objectives:
+ * from sys import args [Source](https://docs.python.org/3/library/sys.html?highlight=sys#module-sys)
+ * From os.path import exsists [Source](https://docs.python.org/3/library/os.path.html)
  * unpacking args
  * read/write files
 #### Take in user input for:
