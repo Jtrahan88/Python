@@ -104,3 +104,17 @@
 #### Take in user input for:
  * Get file need/wanted to read. 
  > **Outputs** file contents. 
+ 
+    # 08. Reading_And_Writing_Files.py [Solution](https://github.com/Jtrahan88/Python/blob/main/01.%20Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops/8_Reading_And_Writing_Files.py/8_Reading_And_Writing_Files.py)
+  ### Must be ran in powershell or some command line aspect on your computer
+
+#### Goal: Delete file text contents, then wrte new lines into file.
+> * Source: [Learn python 3 the hard way - Zed Shaw](https://www.informit.com/store/learn-python-3-the-hard-way-a-very-simple-introduction-9780134692883)
+
+#### Learning Objectives:
+ * import sys from args
+ * unpacking args
+ * read/write files
+#### Take in user input for:
+ * Get file need/wanted to read. 
+ > **Outputs** text file with user inputs written in file. 
