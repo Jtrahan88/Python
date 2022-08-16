@@ -34,3 +34,17 @@
  * Variables.
  * Order of operations[Source](https://www.geeksforgeeks.org/python-invoking-functions-with-and-without-parentheses/)
  > * **Outputs:** function outputs
+ 
+ # 5_Strings_Bytes_Char_Encodings.py [Solution](https://github.com/Jtrahan88/Python/blob/main/02.%20Functions%2C%20parameters%2Cmore%20loops%2C%20and%20dictionaries/4_Functions_returns.py)
+#### Goal: To undertsand encoding adn decoding (VERY HARD LESSON FOR BEGGINERS)
+> * Practice this slowly. Do not get stuck here, but come back every now and then reveiw and try other sites for fun untill you get it.
+#### Learning Objectives:
+* Finding Python source code for things you need.
+* Reading through the code and looking for files.
+* Trying to understand code you find.
+* How Modern computers store human languages for display and processing and how python 3 calls these strings
+* How you must "endcode" and "decode"Pythong strings into a type called bytes.
+* How to handle errors in your string and byte and byte handling
+* How to read code and find out what it means even if you've never seen it before.
+* if-statements [Source](https://docs.python.org/3/tutorial/controlflow.html)
+ > * **Outputs:** the before and after of each type of symbol of different languages. 
