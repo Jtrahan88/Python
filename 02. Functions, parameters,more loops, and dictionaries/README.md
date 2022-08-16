@@ -38,6 +38,7 @@
  # 5_Strings_Bytes_Char_Encodings.py [Solution](https://github.com/Jtrahan88/Python/blob/main/02.%20Functions%2C%20parameters%2Cmore%20loops%2C%20and%20dictionaries/4_Functions_returns.py)
 #### Goal: To undertsand encoding adn decoding (VERY HARD LESSON FOR BEGGINERS)
 > * Practice this slowly. Do not get stuck here, but come back every now and then reveiw and try other sites for fun untill you get it.
+> * run this file like this in powershell:  python .\5_Strings_Bytes_Char_Encodings.py utf-8 strict
 #### Learning Objectives:
 * Finding Python source code for things you need.
 * Reading through the code and looking for files.
