@@ -18,7 +18,7 @@
  
  # 3_Functions_And_files.py [Solution](https://github.com/Jtrahan88/Python/blob/main/02.%20Functions%2C%20parameters%2Cmore%20loops%2C%20and%20dictionaries/3_Functions_And_files.py)
 #### Goal: Function foundations using variables
-> * test08.txt is teh file I used to run this in teh command prompt. Use any file you would like
+> * test08.txt is the file I used to run this in teh command prompt. Use any file you would like
 #### Learning Objectives:
  * Functions
  * Variables.
