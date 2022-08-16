@@ -48,4 +48,5 @@
 * How to handle errors in your string and byte and byte handling
 * How to read code and find out what it means even if you've never seen it before.
 * if-statements [Source](https://docs.python.org/3/tutorial/controlflow.html)
+8 .strip() [Source](https://docs.python.org/3/library/stdtypes.html)
  > * **Outputs:** the before and after of each type of symbol of different languages. 
