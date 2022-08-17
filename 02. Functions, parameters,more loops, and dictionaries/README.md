@@ -58,7 +58,15 @@
  > * **Outputs:** print logics to teh screen if needed
  
   # 7_If_Statments.py [Solution](https://github.com/Jtrahan88/Python/blob/main/02.%20Functions%2C%20parameters%2Cmore%20loops%2C%20and%20dictionaries/7_If_Statments.py)
-#### Goal: Memorize Logic
+#### Goal: Control-Flows
 #### Learning Objectives:
  * [Conditonal statements](https://docs.python.org/3/tutorial/controlflow.html)
  > * **Outputs:** insanity game
+ 
+ 
+   # 8_LoopsListAndStuff.py [Solution](https://github.com/Jtrahan88/Python/blob/main/02.%20Functions%2C%20parameters%2Cmore%20loops%2C%20and%20dictionaries/8_LoopsListAndStuff.py)
+#### Goal: For Loops
+#### Learning Objectives:
+ * [For Loops](https://python101.pythonlibrary.org/chapter5_loops.html)
+ > * **Outputs:** different ways for loops can work. 
+
