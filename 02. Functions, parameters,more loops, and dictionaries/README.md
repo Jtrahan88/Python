@@ -50,3 +50,9 @@
 * if-statements [Source](https://docs.python.org/3/tutorial/controlflow.html)
 8 .strip() [Source](https://docs.python.org/3/library/stdtypes.html)
  > * **Outputs:** the before and after of each type of symbol of different languages. 
+ 
+ # 6_Memorizing_logic.py [Solution](https://github.com/Jtrahan88/Python/blob/main/02.%20Functions%2C%20parameters%2Cmore%20loops%2C%20and%20dictionaries/4_Functions_returns.py)
+#### Goal: Memorize Logic
+#### Learning Objectives:
+ * AND | OR | NOT | = | != 
+ > * **Outputs:** print logics to teh screen if needed
