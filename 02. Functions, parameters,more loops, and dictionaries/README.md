@@ -56,3 +56,9 @@
 #### Learning Objectives:
  * AND | OR | NOT | = | != 
  > * **Outputs:** print logics to teh screen if needed
+ 
+  # 7_If_Statments.py [Solution](https://github.com/Jtrahan88/Python/blob/main/02.%20Functions%2C%20parameters%2Cmore%20loops%2C%20and%20dictionaries/7_If_Statments.py)
+#### Goal: Memorize Logic
+#### Learning Objectives:
+ * [Conditonal statements](https://docs.python.org/3/tutorial/controlflow.html)
+ > * **Outputs:** insanity game
