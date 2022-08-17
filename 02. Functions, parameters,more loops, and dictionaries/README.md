@@ -68,5 +68,6 @@
 #### Goal: For Loops
 #### Learning Objectives:
  * [For Loops](https://python101.pythonlibrary.org/chapter5_loops.html)
+ * [List intro](https://docs.python.org/3/tutorial/datastructures.html)
  > * **Outputs:** different ways for loops can work. 
 
