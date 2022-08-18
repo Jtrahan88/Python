@@ -84,10 +84,19 @@
 #### Learning Objectives:
  * [Lists](https://docs.python.org/3/tutorial/datastructures.html)
  * Indices
- *  * [List intro](https://docs.python.org/3/tutorial/datastructures.html)
  > * **Outputs:** Lists
+ 
+# 11_More_List_Things.py [Solution](https://github.com/Jtrahan88/Python/blob/main/02.%20Functions%2C%20parameters%2Cmore%20loops%2C%20and%20dictionaries/11_More_List_Things.py)
+#### Goal: Lists and other aspects
+#### Learning Objectives:
+ * [Lists](https://docs.python.org/3/tutorial/datastructures.html)
+ * Indices
+ * [.join()](https://docs.python.org/3/library/stdtypes.html)
+ * [.append](https://docs.python.org/3/library/stdtypes.html)
+ * for loops
+ > * **Outputs:** Lists aspects
 
-   # Symbol_Review.py [Solution](https://github.com/Jtrahan88/Python/blob/main/02.%20Functions%2C%20parameters%2Cmore%20loops%2C%20and%20dictionaries/Review/Symbol_Review.py)
+# Symbol_Review.py [Solution](https://github.com/Jtrahan88/Python/blob/main/02.%20Functions%2C%20parameters%2Cmore%20loops%2C%20and%20dictionaries/Review/Symbol_Review.py)
 #### Goal: Review
 #### Learning Objectives:
  * Python symbol breaks downs
