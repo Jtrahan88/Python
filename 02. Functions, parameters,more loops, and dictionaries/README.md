@@ -79,3 +79,10 @@
  *  * [List intro](https://docs.python.org/3/tutorial/datastructures.html)
  > * **Outputs:** different ways while loops can work. 
 
+   # 10_accessingElementsLists.py [Solution](https://github.com/Jtrahan88/Python/blob/main/02.%20Functions%2C%20parameters%2Cmore%20loops%2C%20and%20dictionaries/10_accessingElementsLists.py)
+#### Goal: Lists and list elements
+#### Learning Objectives:
+ * [Lists](https://docs.python.org/3/tutorial/datastructures.html)
+ * indices
+ *  * [List intro](https://docs.python.org/3/tutorial/datastructures.html)
+ > * **Outputs:** Lists
