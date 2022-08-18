@@ -87,7 +87,7 @@
  *  * [List intro](https://docs.python.org/3/tutorial/datastructures.html)
  > * **Outputs:** Lists
 
-   # Symbol_Review.py [Solution](https://github.com/Jtrahan88/Python/blob/main/02.%20Functions%2C%20parameters%2Cmore%20loops%2C%20and%20dictionaries/Symbol_Review.py)
+   # Symbol_Review.py [Solution](https://github.com/Jtrahan88/Python/blob/main/02.%20Functions%2C%20parameters%2Cmore%20loops%2C%20and%20dictionaries/Review/Symbol_Review.py)
 #### Goal: Review
 #### Learning Objectives:
  * Python symbol breaks downs
