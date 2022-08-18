@@ -71,7 +71,7 @@
  * [List intro](https://docs.python.org/3/tutorial/datastructures.html)
  > * **Outputs:** different ways for loops can work. 
 
-   # 9_WhileLoopAndStuff.py.py [Solution](https://github.com/Jtrahan88/Python/blob/main/02.%20Functions%2C%20parameters%2Cmore%20loops%2C%20and%20dictionaries/9_WhileLoopAndStuff.py)
+   # 9_WhileLoopAndStuff.py [Solution](https://github.com/Jtrahan88/Python/blob/main/02.%20Functions%2C%20parameters%2Cmore%20loops%2C%20and%20dictionaries/9_WhileLoopAndStuff.py)
 #### Goal: While Loops
 #### Learning Objectives:
  * [While Loops]([https://python101.pythonlibrary.org/chapter5_loops.html](https://docs.python.org/3/reference/compound_stmts.html#the-while-statement))
