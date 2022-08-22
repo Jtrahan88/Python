@@ -9,3 +9,9 @@
 > * Find the last time each bike was in use. Output both the bike number and the date-timestamp of the bike's last use (i.e., the date-time the bike was returned). Order the results by bikes that were most recently used.
 * [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/Stratascratch/Python_Easy/2_Bikes_Last_Used.py)
 ---
+
+[3_Count_nominated.py](https://platform.stratascratch.com/coding/10128-count-the-number-of-movies-that-abigail-breslin-nominated-for-oscar?code_type=2): 
+* **Question:**
+> * Count the number of movies that Abigail Breslin was nominated for an oscar.
+* [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/Stratascratch/Python_Easy/3_Count_nominated.py)
+---
