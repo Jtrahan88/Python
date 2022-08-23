@@ -7,11 +7,11 @@ Mastering OOP
 ---
 
 # Python_SQL
-Work between Python and PstgresSQL
+Work between Python and PostgreSQL
 ---
 
 # Online_Code_Solutions
-Completted online problemsing from:
+Completed online problems from:
 > * [Stratascratch](https://www.stratascratch.com/)
 > * [HackerRank](https://www.hackerrank.com/)
 > * [LeetCode](https://leetcode.com/)
