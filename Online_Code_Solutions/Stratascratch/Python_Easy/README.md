@@ -46,3 +46,10 @@ Output the order date, details and cost along with the first name.
 Order records based on the customer id in ascending order.
 * [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/Stratascratch/Python_Easy/7_Order_details.py)
 ---
+
+[8_Average_Salaries.py](https://platform.stratascratch.com/coding/9917-average-salaries?code_type=2): 
+* **Question:**
+> * Compare each employee's salary with the average salary of the corresponding department.
+Output the department, first name, and salary of employees along with the average salary of that department.
+* [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/Stratascratch/Python_Easy/8_Average_Salaries.py)
+---
