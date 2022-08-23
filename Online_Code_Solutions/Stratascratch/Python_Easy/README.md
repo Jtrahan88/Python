@@ -15,3 +15,11 @@
 > * Count the number of movies that Abigail Breslin was nominated for an oscar.
 * [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/Stratascratch/Python_Easy/3_Count_nominated.py)
 ---
+
+[4_Artist_Ranks_Spotify.py](https://platform.stratascratch.com/coding/9992-find-artists-that-have-been-on-spotify-the-most-number-of-times?code_type=2): 
+* **Question:**
+> * Find how many times each artist appeared on the Spotify ranking list
+Output the artist name along with the corresponding number of occurrences.
+Order records by the number of occurrences in descending order.
+* [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/Stratascratch/Python_Easy/4_Artist_Ranks_Spotify.py)
+---
