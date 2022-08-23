@@ -23,3 +23,10 @@ Output the artist name along with the corresponding number of occurrences.
 Order records by the number of occurrences in descending order.
 * [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/Stratascratch/Python_Easy/4_Artist_Ranks_Spotify.py)
 ---
+
+[5_Captain_basepay.py](https://platform.stratascratch.com/coding/9972-find-the-base-pay-for-police-captains?code_type=2): 
+* **Question:**
+> * Find the base pay for Police Captains.
+Output the employee name along with the corresponding base pay.
+* [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/Stratascratch/Python_Easy/5_Captain_basepay.py)
+---
