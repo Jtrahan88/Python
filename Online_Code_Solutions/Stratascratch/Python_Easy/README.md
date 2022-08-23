@@ -30,3 +30,19 @@ Order records by the number of occurrences in descending order.
 Output the employee name along with the corresponding base pay.
 * [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/Stratascratch/Python_Easy/5_Captain_basepay.py)
 ---
+
+[6_Lyft_wages.py](https://platform.stratascratch.com/coding/10003-lyft-driver-wages?code_type=2): 
+* **Question:**
+> * Find all Lyft drivers who earn either equal to or less than 30k USD or equal to or more than 70k USD.
+Output all details related to retrieved records.
+* [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/Stratascratch/Python_Easy/6_Lyft_wages.py)
+---
+
+[7_Order_details.py]([https://platform.stratascratch.com/coding/10003-lyft-driver-wages?code_type=2](https://platform.stratascratch.com/coding/9913-order-details?code_type=2)): 
+* **Question:**
+> * Find order details made by Jill and Eva.
+Consider the Jill and Eva as first names of customers.
+Output the order date, details and cost along with the first name.
+Order records based on the customer id in ascending order.
+* [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/Stratascratch/Python_Easy/7_Order_details.py)
+---
