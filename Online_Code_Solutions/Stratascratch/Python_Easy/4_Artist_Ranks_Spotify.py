@@ -5,6 +5,4 @@
 import pandas as pd
 
 # Start writing code
-counts = spotify_worldwide_daily_song_ranking.groupby(['artist'])['id'].count().reset_index().rename(columns={'id':'times_ranked'})
-
-counts.sort_values(by='times_ranked', ascending=False)
+counts = spotify_worldwide_daily_song_ranking.groupby(['artist'])['id'].count().reset_index().rename(columns={'id':'times_ranked'}).sort_values(by='times_ranked', ascending=False)
