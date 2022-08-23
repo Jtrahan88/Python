@@ -53,3 +53,9 @@ Order records based on the customer id in ascending order.
 Output the department, first name, and salary of employees along with the average salary of that department.
 * [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/Stratascratch/Python_Easy/8_Average_Salaries.py)
 ---
+
+[9_Salaries_Differences.py](https://platform.stratascratch.com/coding/10308-salaries-differences?code_type=2): 
+* **Question:**
+> * Write a query that calculates the difference between the highest salaries found in the marketing and engineering departments. Output just the absolute difference in salaries.
+* [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/Stratascratch/Python_Easy/9_Salaries_Differences.py)
+---
