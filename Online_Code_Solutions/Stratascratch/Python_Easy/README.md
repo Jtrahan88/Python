@@ -38,7 +38,7 @@ Output all details related to retrieved records.
 * [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/Stratascratch/Python_Easy/6_Lyft_wages.py)
 ---
 
-[7_Order_details.py]([https://platform.stratascratch.com/coding/10003-lyft-driver-wages?code_type=2](https://platform.stratascratch.com/coding/9913-order-details?code_type=2): 
+[7_Order_details.py](https://platform.stratascratch.com/coding/9913-order-details?code_type=2): 
 * **Question:**
 > * Find order details made by Jill and Eva.
 Consider the Jill and Eva as first names of customers.
