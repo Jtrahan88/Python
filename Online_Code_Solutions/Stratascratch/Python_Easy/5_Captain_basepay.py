@@ -17,3 +17,4 @@ sf_public_salaries
 
 # one liner:
 result =sf_public_salaries[(sf_public_salaries['jobtitle'].str.contains('CAPTAIN', case = False))&(sf_public_salaries['jobtitle'].str.contains('POLICE', case = False))][['employeename','basepay']]
+
