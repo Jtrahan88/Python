@@ -34,8 +34,16 @@ The third line contains the product of the two numbers.
 * [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/HackerRank/Python-Basics/4_Division.py)
 ---
 
-[5_loops.py](https://www.hackerrank.com/challenges/python-loops/problem)
+[6_print_funcction.py](https://www.hackerrank.com/challenges/python-loops/problem)
 * Questions
 > * The provided code stub reads and integer, , from STDIN. For all non-negative integers , print .
 * [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/HackerRank/Python-Basics/5_loops.py)
+---
+
+[6_print_funcction.py](https://www.hackerrank.com/challenges/python-print/problem)
+* Questions
+> * The included code stub will read an integer, , from STDIN.
+Without using any string methods, try to print the following:
+Note that "" represents the consecutive values in between.
+* [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/HackerRank/Python-Basics/6_print_funcction.py)
 ---
