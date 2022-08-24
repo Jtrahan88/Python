@@ -13,3 +13,9 @@ This means that in the Gregorian calendar, the years 2000 and 2400 are leap year
 Note that the code stub provided reads from STDIN and passes arguments to the is_leap function. It is only necessary to complete the is_leap function.
 * [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/HackerRank/Python_Intermediate/1_Write_A_Function.py)
 ---
+
+[2_runner_up.py](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem?isFullScreen=true)
+* Questions
+> * Given the participants' score sheet for your University Sports Day, you are required to find the runner-up score. You are given  scores. Store them in a list and find the score of the runner-up.
+* [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/HackerRank/Python_Intermediate/2_runner_up.py)
+---
