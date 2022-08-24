@@ -59,3 +59,10 @@ Output the department, first name, and salary of employees along with the averag
 > * Write a query that calculates the difference between the highest salaries found in the marketing and engineering departments. Output just the absolute difference in salaries.
 * [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/Stratascratch/Python_Easy/9_Salaries_Differences.py)
 ---
+
+[10_library_code_email.py](https://platform.stratascratch.com/coding/9924-find-libraries-who-havent-provided-the-email-address-in-2016-but-their-notice-preference-definition-is-set-to-email?code_type=2): 
+* **Question:**
+> * Find libraries who haven't provided the email address in circulation year 2016 but their notice preference definition is set to email.
+Output the library code.
+* [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/Stratascratch/Python_Easy/10_library_code_email.py)
+---
