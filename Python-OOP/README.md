@@ -12,7 +12,7 @@
  > * **Outputs:** the objects of our classes
 
 
-# 2_Learning_To_Speak_OOP.py [Solution](https://github.com/Jtrahan88/Python/blob/main/02.%20Functions%2C%20parameters%2Cmore%20loops%2C%20and%20dictionaries/2_Learning_To_Speak_OOP.py)
+# 2_Learning_To_Speak_OOP.py [Solution](https://github.com/Jtrahan88/Python/blob/main/Python-OOP/2_Learning_To_Speak_OOP.py)
 #### Goal: Learn to Read OOP (kind of weird at first)
 > * **Special note. This has to be run in Power Shell or bash to work.**
 #### Learning Objectives:
