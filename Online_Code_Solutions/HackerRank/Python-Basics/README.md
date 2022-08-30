@@ -40,10 +40,17 @@ The third line contains the product of the two numbers.
 * [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/HackerRank/Python-Basics/5_loops.py)
 ---
 
-[6_print_funcction.py](https://www.hackerrank.com/challenges/python-print/problem)
+[6_print_function.py](https://www.hackerrank.com/challenges/python-print/problem)
 * Questions
 > * The included code stub will read an integer, , from STDIN.
 Without using any string methods, try to print the following:
 Note that "" represents the consecutive values in between.
-* [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/HackerRank/Python-Basics/6_print_funcction.py)
+* [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/HackerRank/Python-Basics/6_print_function.py)
 ---
+
+[7_Find_percentage.py](https://www.hackerrank.com/challenges/finding-the-percentage/problem?isFullScreen=true)
+* Questions
+> * The provided code stub will read in a dictionary containing key/value pairs of name:[marks] for a list of students. Print the average of the marks array for the student name provided, showing 2 places after the decimal.
+* [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/HackerRank/Python-Basics/7_Find_percentage.py)
+---
+
