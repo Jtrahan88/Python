@@ -75,8 +75,18 @@ Output the location along with the average popularity.
 * [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/Stratascratch/Python_Easy/11_avg_hacker_popularity.py)
 ---
 
+
 [12_heart_facebook_posts.py](https://platform.stratascratch.com/coding/10087-find-all-posts-which-were-reacted-to-with-a-heart?code_type=2): 
 * **Question:**
 > * Find all posts which were reacted to with a heart. For such posts output all columns from facebook_posts table.
 * [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/Stratascratch/Python_Easy/12_heart_facebook_posts.py)
 ---
+
+
+[13_MostProfit_Financial_Company.py](https://platform.stratascratch.com/coding/9663-find-the-most-profitable-company-in-the-financial-sector-of-the-entire-world-along-with-its-continent?code_type=2): 
+* **Question:**
+> * Find the most profitable company from the financial sector. Output the result along with the continent.
+* [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/Stratascratch/Python_Easy/13_MostProfit_Financial_Company.py)
+---
+
+
