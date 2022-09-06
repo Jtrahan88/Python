@@ -102,3 +102,11 @@ Output the location along with the average popularity.
 > * Find the activity date and the pe_description of facilities with the name 'STREET CHURROS' and with a score of less than 95 points.
 * [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/Stratascratch/Python_Easy/15_Churro_Activity.py)
 ---
+
+[16_Count_MacBookPro_users.py](https://platform.stratascratch.com/coding/9653-count-the-number-of-user-events-performed-by-macbookpro-users?code_type=2): 
+* **Question:**
+> * Count the number of user events performed by MacBookPro users.
+Output the result along with the event name.
+Sort the result based on the event count in the descending order.
+* [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/Stratascratch/Python_Easy/16_Count_MacBookPro_users.py)
+---
