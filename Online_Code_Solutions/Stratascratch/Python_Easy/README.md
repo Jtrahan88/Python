@@ -113,6 +113,14 @@ Sort the result based on the event count in the descending order.
 
 [17_customer_Details.py](https://platform.stratascratch.com/coding/9891-customer-details?code_type=2): 
 * **Question:**
-> * https://platform.stratascratch.com/coding/9891-customer-details?code_type=2
+> * Find the details of each customer regardless of whether the customer made an order. Output the customer's first name, last name, and the city along with the order details. You may have duplicate rows in your results due to a customer ordering several of the same items. Sort records based on the customer's first name and the order details in ascending order.
 * [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/Stratascratch/Python_Easy/17_customer_Details.py)
 ---
+
+[18_Nation_gender_mataching.py](https://platform.stratascratch.com/coding/10078-find-matching-hosts-and-guests-in-a-way-that-they-are-both-of-the-same-gender-and-nationality?code_type=2): 
+* **Question:**
+> * Find matching hosts and guests pairs in a way that they are both of the same gender and nationality.
+Output the host id and the guest id of matched pair.
+* [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/Stratascratch/Python_Easy/18_Nation_gender_mataching.py)
+---
+
