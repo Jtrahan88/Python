@@ -110,3 +110,9 @@ Output the result along with the event name.
 Sort the result based on the event count in the descending order.
 * [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/Stratascratch/Python_Easy/16_Count_MacBookPro_users.py)
 ---
+
+[17_customer_Details.py](https://platform.stratascratch.com/coding/9891-customer-details?code_type=2): 
+* **Question:**
+> * https://platform.stratascratch.com/coding/9891-customer-details?code_type=2
+* [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/Stratascratch/Python_Easy/17_customer_Details.py)
+---
