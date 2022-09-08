@@ -135,3 +135,32 @@ Output the host id and the guest id of matched pair.
 > * Find the top 5 businesses with most reviews. Assume that each row has a unique business_id such that the total reviews for each business is listed on each row. Output the business name along with the total number of reviews and order your results by the total reviews in descending order.
 * [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/Stratascratch/Python_Easy/20_Top_reviews.py)
 ---
+
+[21_TopRank_byYear.py](https://platform.stratascratch.com/coding/9650-find-the-top-10-ranked-songs-in-2010?code_type=2): 
+* **Question:**
+> * What were the top 10 ranked songs in 2010?
+Output the rank, group name, and song name but do not show the same song twice.
+Sort the result based on the year_rank in ascending order.
+* [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/Stratascratch/Python_Easy/21_TopRank_byYear.py)
+---
+
+[22_Olympics_Athlete_counts.py](https://platform.stratascratch.com/coding/9942-largest-olympics?code_type=2): 
+* **Question:**
+> * Find the Olympics with the highest number of athletes. The Olympics game is a combination of the year and the season, and is found in the 'games' column. Output the Olympics along with the corresponding number of athletes.
+* [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/Stratascratch/Python_Easy/22_Olympics_Athlete_counts.py)
+---
+
+[23_numOwners_aparments_under30.py](https://platform.stratascratch.com/coding/10156-number-of-units-per-nationality?code_type=2): 
+* **Question:**
+> * Find the number of apartments per nationality that are owned by people under 30 years old.
+Output the nationality along with the number of apartments.
+Sort records by the apartments count in descending order.
+* [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/Stratascratch/Python_Easy/23_numOwners_aparments_under30.py)
+---
+
+[24_Top_cool_reviews.py](https://platform.stratascratch.com/coding/10060-top-cool-votes?code_type=2): 
+* **Question:**
+> * Find the review_text that received the highest number of  'cool' votes.
+Output the business name along with the review text with the highest numbef of 'cool' votes.
+* [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/Stratascratch/Python_Easy/24_Top_cool_reviews.py)
+---
