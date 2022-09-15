@@ -4,4 +4,4 @@ Goals: work with rows and columns using measures of distribution
 
 # Demographic_Data_Analyzer [Solution](https://github.com/Jtrahan88/Python/tree/main/Online_Code_Solutions/FreeCodeCamp/Demographic_Data_Analyzer)
 Goals: Running an analysis on a data file that has a few questions for us to answer.
-> * Side Note: This was done in a replit, with a jupyter notebook style format. It will not run in a jupyter notebook due to some other aspect teh course has running in the background. 
+> * Side Note: This was done in a replit, with a jupyter notebook style format. It will not run in a jupyter notebook due to some other aspect the course has running in the background. 
