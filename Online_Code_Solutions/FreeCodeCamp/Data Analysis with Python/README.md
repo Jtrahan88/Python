@@ -10,3 +10,9 @@ Goals: Running an analysis on a data file that has a few questions for us to ans
 # Medical_Data_Visualizer [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/FreeCodeCamp/Medical_Data_Visualizer/medical_data_visualizer.ipynb)
 Goals: Trasform data into a barchart and heatmap. 
 > * Side note: Replit would not install pandas so i did this in my personal jupyter notebook. 
+---
+
+# Time_Series_Visualizer
+Goals: Trasform data into a barchart, boxplot, and line chart. 
+> * Side note: Replit would not install pandas so i did this in my personal jupyter notebook. 
+---
