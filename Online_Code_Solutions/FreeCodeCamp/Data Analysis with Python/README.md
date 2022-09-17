@@ -16,3 +16,8 @@ Goals: Trasform data into a barchart and heatmap.
 Goals: Trasform data into a barchart, boxplot, and line chart. 
 > * Side note: Replit would not install pandas so i did this in my personal jupyter notebook. 
 ---
+
+# Sea_Level_Predictor [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/FreeCodeCamp/Data%20Analysis%20with%20Python/Sea_Level_Predictor/sea_level_predictor.ipynb)
+Goals: Trasform data into a scatterplot
+> * Side note: Replit would not install pandas so i did this in my personal jupyter notebook. 
+---
