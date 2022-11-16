@@ -5,9 +5,9 @@
 * [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/Stratascratch/Python_Medium/1_count_violations_byYear.py)
 ---
 
-[2_business_types](https://platform.stratascratch.com/coding/9728-inspections-that-resulted-in-violations?code_type=2): 
+[2_business_types](https://platform.stratascratch.com/coding/9726-classify-business-type?code_type=2): 
 * **Question:**
-> * You're given a dataset of health inspections. Count the number of violation in an inspection in 'Roxanne Cafe' for each year. If an inspection resulted in a violation, there will be a value in the 'violation_id' column. Output the number of violations by year in ascending order.
+> * Classify each business as either a restaurant, cafe, school, or other. A restaurant should have the word 'restaurant' in the business name. For cafes, either 'cafe', 'café', or 'coffee' can be in the business name. 'School' should be in the business name for schools. All other businesses should be classified as 'other'. Output the business name and the calculated classification.
 * [Solution](https://github.com/Jtrahan88/Python/blob/main/Online_Code_Solutions/Stratascratch/Python_Medium/2_business_types.py)
 ---
 
