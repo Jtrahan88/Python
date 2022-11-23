@@ -36,13 +36,13 @@
 
 ### For table inputs
 * Table name in SQL: 
-* SQL hostname/etc needed?: 'Y' or 'N' n   -> this one needs to be ran once if other tables are being made in the **SAME** database
+* SQL hostname/etc needed?: 'Y' or 'N' n   -> this one ONLY needs to be ran ONCE if other tables are being made in the **SAME** database
 * Number(#) of columns in table: 4 (example) -> if less or more it will prompt for that number amount
-* Column 1 Name: Year 
-* Column 2 Name: Rates 
-* Column 3 Name: Brackets 
-* Column 4 Name: Notes 
-* Data Type for Year in SQL syntax: 
-* Data Type for Rates in SQL syntax: 
-* Data Type for Brackets in SQL syntax: 
-* Data Type for Notes in SQL syntax: 
+> * Column 1 Name: Year 
+> * Column 2 Name: Rates 
+> * Column 3 Name: Brackets 
+> * Column 4 Name: Notes 
+> > * Data Type for Year in SQL syntax: 
+> > * Data Type for Rates in SQL syntax: 
+> > * Data Type for Brackets in SQL syntax: 
+> > * Data Type for Notes in SQL syntax: 
