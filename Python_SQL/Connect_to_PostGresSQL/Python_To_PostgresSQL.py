@@ -44,7 +44,7 @@ def connectPostGres(dataframe):
         # create writing scripts
         cur = conn.cursor()
 
-        # drops table to insert all new data(complete overwrite of old data):
+        # drops table to insert all new data(complete overwrite of old data):*************************************************Can take out if needed
         cur.execute(f"DROP TABLE IF EXISTS {tablename}")
 
         # columns + " " + datatype for our creat table script
