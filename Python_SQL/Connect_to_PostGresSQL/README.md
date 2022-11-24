@@ -1,6 +1,9 @@
 # ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `Python_To_PostgresSQL` 
 > * Take our Cleaned data in python and send it to PostGress SQL_V1.0
 > * [Source for helping set this up](https://www.youtube.com/watch?v=M2NzvnfS-hI)
+* IMPORTANT NOTE. 
+> * Under the function **SQL_hosting()** the variable pwd = os.environ.get('PSW') uses a enviromental variable from the import os library. You can find out how to use this [HERE](https://www.youtube.com/watch?v=IolxqkL7cD8) OR use a input() call for teh user. 
+> * **WARNING** if you use input() your password will can be shown to others. Enviromental variables are best for secruity. 
 
 ### Goals: Send cleaned data to database in a dynamic way after our data has been cleaned.  
 #### Important notes:
