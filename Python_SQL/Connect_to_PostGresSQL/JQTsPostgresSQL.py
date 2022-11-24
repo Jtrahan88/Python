@@ -106,7 +106,12 @@ def SQL_hosting():
 
 def table_setup():
     '''Get: Number Of Columns, and Each Column Name(case sensative)'''
-    userNumOfColumns = int(input('# of columns in table: '))
+    try:
+        userNumOfColumns = abs(int(input('# of columns in table: ')))
+    except ValueError:
+        print("Intergers only!")
+        table_setup()
+        
     col_nums = 1
     columns = []
     while col_nums <= userNumOfColumns:
