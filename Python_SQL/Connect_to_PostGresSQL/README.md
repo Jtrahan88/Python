@@ -1,20 +1,11 @@
 # Python_To_PostgresSQL
 > * Take our Cleaned data in python and send it to PostGress SQL_V1.0
 > * [Source for helping set this up](https://www.youtube.com/watch?v=M2NzvnfS-hI)
-## Goals: Send cleaned data to database in a dynamic way after our data has been cleaned.  
-### Important notes:
+
+### Goals: Send cleaned data to database in a dynamic way after our data has been cleaned.  
+#### Important notes:
 * Your database will need to be made in Posgress before running this.
 * This will over write a pre-existing table. In my case I am over writing .GOV Data as it come in. Their API does not work currently.
-
-# Below is the how and what is needed to connect to PostgreSQL database.
-
-
-> > hostName = '' 
-> > database = '' 
-> > username = ''
-> > pwd = ''
-> > port_id = ''
-
 #### Learning objectives:
 * [Python convert Dataframe to list of tuples:](https://pythonguides.com/python-convert-dataframe-to-list/)
 * [Youtube for sql updating:](https://www.youtube.com/watch?v=M2NzvnfS-hI)
@@ -23,20 +14,33 @@
 * Dynamic functions
 * global varibale
 
+## Below is the how and what is needed to connect to PostgreSQL database.
+
+
+# SQL_hosting - Will get teh following if not already connected.
+#### Prompts users for the following information:
+> > * hostName = '' 
+> > * database = '' 
+> > * username = ''
+> > * pwd = ''
+> > * port_id = ''
+
+
 ## Will need to know to run on your system:
 **Database needs to be created before this is ran.**
-### Login to PosgresSQL host name inputs:
-> * Location: Right click host name (mine is PostgreSQL 13) and select properties -> connection. 
+## Login to PosgresSQL host name inputs:
+### Locations:
+#### Right click host name (mine is PostgreSQL 13) and select properties -> connection. 
 * host
 * dbname 
-> * right click on pre-made database in PostgreSQL, click properties. 
+#### Right click on pre-made database in PostgreSQL, click properties. 
 * user
 * password
 * port
 
-### For table inputs
-* Table name in SQL: 
-* SQL hostname/etc needed?: 'Y' or 'N' n   -> this one ONLY needs to be ran ONCE if other tables are being made in the **SAME** database
+# Table_Setup - This will add tables to posgress. This can be ran as many times as needed:
+* SQL hostname/etc needed?: 'Y' or 'N' n   -> this one ONLY(SQL_hosting) needs to be ran ONCE if other tables are being made in the **SAME** database
+#### Prompts users for the following information:
 * Number(#) of columns in table: 4 (example) -> if less or more it will prompt for that number amount
 > * Column 1 Name: Year 
 > * Column 2 Name: Rates 
