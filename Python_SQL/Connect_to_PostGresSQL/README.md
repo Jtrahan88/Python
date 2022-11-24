@@ -1,4 +1,4 @@
-# ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `Python_To_PostgresSQL` 
+# ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `Python_To_PostgresSQL` 
 > * Take our Cleaned data in python and send it to PostGress SQL_V1.0
 > * [Source for helping set this up](https://www.youtube.com/watch?v=M2NzvnfS-hI)
 
@@ -17,7 +17,7 @@
 ## Below is the how and what is needed to connect to PostgreSQL database.
 
 
-# SQL_hosting - Will get teh following if not already connected.
+# ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `SQL_hosting - Will get the  following if not already connected.`
 #### Prompts users for the following information:
 > > * hostName = '' 
 > > * database = '' 
@@ -38,7 +38,7 @@
 * password
 * port
 
-# Table_Setup - This will add tables to posgress. This can be ran as many times as needed:
+# ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `Table_Setup - This will add tables to posgress. This can be ran as many times as needed:`
 * SQL hostname/etc needed?: 'Y' or 'N' n   -> this one ONLY(SQL_hosting) needs to be ran ONCE if other tables are being made in the **SAME** database
 #### Prompts users for the following information:
 * Number(#) of columns in table: 4 (example) -> if less or more it will prompt for that number amount
