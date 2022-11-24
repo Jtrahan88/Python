@@ -39,7 +39,7 @@
 * port
 
 # ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `Table_Setup - This will add tables to posgress. This can be ran as many times as needed:`
-* SQL hostname/etc needed?: 'Y' or 'N' n   -> this one ONLY(SQL_hosting) needs to be ran ONCE if other tables are being made in the **SAME** database
+* SQL hostname/etc needed?: 'Y' or 'N' n   -> this one ONLY needs to be ran ONCE if other tables are being made in the **SAME** database -see **SQL_hosting** above.
 #### Prompts users for the following information:
 * Number(#) of columns in table: 4 (example) -> if less or more it will prompt for that number amount
 > * Column 1 Name: Year 
