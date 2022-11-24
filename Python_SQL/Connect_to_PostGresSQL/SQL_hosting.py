@@ -3,9 +3,9 @@ def SQL_hosting():
     # fuction will allow to assogn a varable to SQL sever
     print('Following data is needed:\n')
     hostName = input('hostName: ')
-    database = input('database name: ')
     username = input('username: ')
-    pwd = input('password: ')
+    pwd = os.environ.get('PSW')
     port_id = input('Port ID: ')
-
+    database = input('database name: ')
+    
     return hostName, database, username, pwd, port_id
