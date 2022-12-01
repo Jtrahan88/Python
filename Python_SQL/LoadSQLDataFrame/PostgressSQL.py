@@ -9,6 +9,7 @@ password = os.environ.get('PSW', 'No Value')
 
 # create the engine needed to connect Post gress to python
 engine = alSQL.create_engine(f"postgresql+psycopg2://postgres:{password}@localhost:5432/postgres")
+# The break down of engine requirments: engine = create_engine(dialect+driver://username:password@host:port/database)
 
 # read in the file
 from sqlalchemy.sql import text
