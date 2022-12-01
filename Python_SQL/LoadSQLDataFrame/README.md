@@ -6,7 +6,7 @@
 
 #### Learning objectives:
 * > The break down of engine requirments:
-* * > engine = create_engine(dialect+driver://username:password@host:port/database)
+* > engine = create_engine(dialect+driver://username:password@host:port/database)
 * > > postgresql+psycopg2 = dialect+driver
 * > > postgres = username
 * > > password = password from my envriomental variable. You can type in password if needed but not recommended
